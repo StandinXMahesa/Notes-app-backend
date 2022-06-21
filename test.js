@@ -10,4 +10,4 @@ a.push(b);
 
 const index = a.findIndex((note) => note.empat === "c");
 
-console.log(index);
+console.log(b);
